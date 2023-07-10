@@ -1,0 +1,2 @@
+# MOVIE_SEARCH_APP
+Using HTML,CSS,JavaScript
